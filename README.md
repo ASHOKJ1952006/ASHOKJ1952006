@@ -63,6 +63,8 @@ I’m **Ashok J**, a passionate **Full Stack Developer** and **UI/UX Designer** 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHOKJ1952006&layout=compact&theme=react&card_width=460" alt="Top Languages" />
 </p>
 
+[![Bharanidharan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASHOKJ1952006&bg_color=17000d&color=80ff80&line=80ffff&point=00ff40&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ### 🌐 Connect With Me  
