@@ -32,17 +32,17 @@ I am **Ashok J**, a motivated **Full Stack Developer** and **UI/UX Designer** wi
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,xd" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma" />
 </p>
 
 ### ⚙️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
 
 ### 🛢️ Databases & Developer Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,jenkins" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,github,vscode,jenkins" />
 </p>
 
 ---
