@@ -64,6 +64,7 @@ I am **Ashok J**, a motivated **Full Stack Developer** and **UI/UX Designer** wi
     src="https://github-readme-stats.vercel.app/api?username=ASHOKJ1952006&show_icons=true&theme=react&hide_rank=true&custom_title=GitHub%20Contributions" 
     width="48%" 
   />
+  <br>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHOKJ1952006&layout=compact&theme=react" 
     width="48%" 
@@ -79,6 +80,7 @@ I am **Ashok J**, a motivated **Full Stack Developer** and **UI/UX Designer** wi
 ---
 
 ## 📈 LeetCode Performance
+<br>
 
 <p align="center">
   <a href="https://leetcode.com/Ashok_jayaraj" target="_blank">
@@ -88,6 +90,7 @@ I am **Ashok J**, a motivated **Full Stack Developer** and **UI/UX Designer** wi
     />
   </a>
 </p>
+<br>
 
 ---
 
@@ -103,7 +106,14 @@ I am **Ashok J**, a motivated **Full Stack Developer** and **UI/UX Designer** wi
   <a href="mailto:ashokjayaraj123@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://raw.githubusercontent.com/ASHOKJ1952006/resume/main/ashokkkkkkk.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
+
+
+
+
 
 ---
 
