@@ -49,7 +49,7 @@ I am **Ashok J**, a motivated **Full Stack Developer** and **UI/UX Designer** wi
 
 ## 🚀 Featured Projects
 
-- 🌐 **Portfolio Website** — https://ashokk-six.vercel.app  
+- 🌐 **Portfolio Website** — https://ashokj.app  
 - 🧠 **Course Recommendation System**  
 - 🏙️ **Civic Issues Reporting & Resolution Platform**  
 - 👮 **Chotacop (Young India Initiative)**  
